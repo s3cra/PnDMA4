@@ -5,4 +5,8 @@
     <string name="next">Next</string>
     <string name="subject">subject</string>
     <string name="enter_info">Enter info</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+    <string name="comment">comment</string>
+    <string name="done">Done</string>
 </resources>
