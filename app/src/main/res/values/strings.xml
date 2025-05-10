@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mobilki4</string>
+    <string name="surname">surname</string>
+    <string name="name">name</string>
+    <string name="next">Next</string>
+    <string name="subject">subject</string>
+    <string name="enter_info">Enter info</string>
+</resources>
